@@ -41,7 +41,7 @@ const ContactSection = () => {
 							Get in Touch
 						</a>
 						<a
-							href="https://github.com/mariam021/CV/blob/main/Mariam%20Mohamed%20Gamal.pdf"
+							href="https://drive.google.com/file/d/1pyo_KVL8x5BA09522hYKIIBD3O5eUntO/view?usp=sharing"
 							target="_blank"
 							className="px-8 py-3 bg-gray-100 text-gray-700 rounded-full font-medium hover:bg-gray-200 transition-colors inline-flex items-center justify-center gap-2 border border-gray-200"
 						>
